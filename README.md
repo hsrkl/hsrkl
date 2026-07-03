@@ -1,2 +1,2 @@
-I'm a self taught programmer who codes as a hobby
+self taught programmer who codes as a hobby
 
